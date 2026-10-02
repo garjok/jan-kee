@@ -1,0 +1,16 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9C6BFF"/>
+      <stop offset="100%" stop-color="#2A1F39"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="292" height="452" rx="20" fill="none" stroke="#F6D98A" stroke-width="2"/>
+  <circle cx="160" cy="178" r="68" fill="#F0D1FF" fill-opacity="0.18" stroke="#F4D86A" stroke-width="3"/>
+  <path d="M160 98 L172 140 L214 140 L180 169 L194 214 L160 188 L126 214 L140 169 L106 140 L148 140 Z" fill="#F8D383"/>
+  <path d="M124 250 C132 220, 144 205, 160 205 C176 205, 188 220, 196 250 L206 320 C170 340, 150 340, 114 320 Z" fill="#FFD9A8" fill-opacity="0.72"/>
+  <circle cx="160" cy="232" r="42" fill="#FFEFCB"/>
+  <path d="M93 332 H227" stroke="#F7E5B2" stroke-width="3" stroke-linecap="round"/>
+  <text x="160" y="396" text-anchor="middle" fill="#F6F0FF" font-size="28" font-family="Georgia, serif" font-weight="bold">THE FOOL</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB41A"/>
+      <stop offset="100%" stop-color="#261A25"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="292" height="452" rx="20" fill="none" stroke="#F7E3AA" stroke-width="2"/>
+  <circle cx="160" cy="178" r="62" fill="#FFD95A"/>
+  <path d="M160 88 V116 M160 240 V268 M75 178 H103 M217 178 H245 M104 117 L122 135 M198 221 L216 239 M216 117 L198 135 M122 221 L104 239" stroke="#F7E3AA" stroke-width="4" stroke-linecap="round"/>
+  <path d="M112 295 C130 276, 145 270, 160 270 C175 270, 190 276, 208 295" stroke="#F7E3AA" stroke-width="4" fill="none"/>
+  <path d="M130 330 H190" stroke="#F7E3AA" stroke-width="4" stroke-linecap="round"/>
+  <text x="160" y="398" text-anchor="middle" fill="#FFF5D7" font-size="30" font-family="Georgia, serif" font-weight="bold">THE SUN</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FACF5B"/>
+      <stop offset="100%" stop-color="#2D2237"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="292" height="452" rx="20" fill="none" stroke="#F7E6A8" stroke-width="2"/>
+  <path d="M160 80 L177 138 L240 138 L189 175 L207 240 L160 199 L113 240 L131 175 L80 138 L143 138 Z" fill="#F9E6A8"/>
+  <circle cx="160" cy="180" r="58" fill="#FFF6DB" fill-opacity="0.14" stroke="#FFF6DB" stroke-width="2"/>
+  <path d="M95 282 C118 248, 139 236, 160 236 C181 236, 202 248, 225 282" stroke="#F7E7B2" stroke-width="3" fill="none"/>
+  <path d="M122 318 C139 300, 149 298, 160 298 C171 298, 181 300, 198 318" stroke="#F7E7B2" stroke-width="3" fill="none"/>
+  <path d="M160 324 V360" stroke="#F7E7B2" stroke-width="3"/>
+  <text x="160" y="400" text-anchor="middle" fill="#FFF9E5" font-size="30" font-family="Georgia, serif" font-weight="bold">THE STAR</text>
+</svg>

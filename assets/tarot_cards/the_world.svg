@@ -1,0 +1,16 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB34A"/>
+      <stop offset="100%" stop-color="#251B25"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="292" height="452" rx="20" fill="none" stroke="#F5D98E" stroke-width="2"/>
+  <circle cx="160" cy="178" r="76" fill="#FFECC8" fill-opacity="0.12" stroke="#F7D88B" stroke-width="3"/>
+  <path d="M84 178 H236 M160 102 V254" stroke="#F7D88B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 128 C116 146, 140 157, 160 157 C180 157, 204 146, 224 128" stroke="#F7D88B" stroke-width="3" fill="none"/>
+  <path d="M96 228 C116 210, 140 200, 160 200 C180 200, 204 210, 224 228" stroke="#F7D88B" stroke-width="3" fill="none"/>
+  <path d="M112 300 C130 322, 146 332, 160 332 C174 332, 190 322, 208 300" stroke="#F7D88B" stroke-width="4" fill="none"/>
+  <text x="160" y="400" text-anchor="middle" fill="#FFF9E7" font-size="28" font-family="Georgia, serif" font-weight="bold">WORLD</text>
+</svg>

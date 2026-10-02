@@ -1,0 +1,16 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18A5D1"/>
+      <stop offset="100%" stop-color="#200F2E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="292" height="452" rx="20" fill="none" stroke="#F1C53D" stroke-width="2"/>
+  <circle cx="160" cy="180" r="18" fill="#F8D984"/>
+  <path d="M160 98 V238 M98 160 H222 M118 118 L202 202 M202 118 L118 202" stroke="#F8D984" stroke-width="3" stroke-linecap="round"/>
+  <path d="M108 278 L88 340 H132 L160 278 Z M212 278 L232 340 H188 L160 278 Z" fill="#F7F4F7" fill-opacity="0.2"/>
+  <rect x="120" y="250" width="80" height="116" rx="18" fill="#FDF6DA" fill-opacity="0.12"/>
+  <path d="M150 279 V340 M130 300 H170" stroke="#F3D97C" stroke-width="4" stroke-linecap="round"/>
+  <text x="160" y="396" text-anchor="middle" fill="#F3F8FF" font-size="24" font-family="Georgia, serif" font-weight="bold">MAGICIAN</text>
+</svg>
